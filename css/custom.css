@@ -1,0 +1,17 @@
+
+.btn-squared-default-plain {
+  width: 120px !important;
+  height: 120px !important;
+  font-size: 15px; 
+}
+
+.btn-squared-default-plain:hover {
+  border: 0px solid white;
+}
+
+.icon-xl {
+  font-size: 4.0rem;
+  margin: auto;
+}
+
+
